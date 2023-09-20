@@ -1,4 +1,4 @@
-# Blinduino
+# Automated Blinds project
 
 Arduino sketch and iPhone app for an automated window blinds system, capable of opening, closing, and scheduled opening of window blinds connected to a stepper motor.
 
